@@ -1,3 +1,5 @@
 node_modules
 .cache
 yarn.lock
+public
+gatsby-theme-events/public/page-data/dev-404-page
