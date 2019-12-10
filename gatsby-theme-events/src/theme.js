@@ -59,7 +59,7 @@ export const theme = {
       borderBottom: "1px solid",
       borderColor: "gray.0",
       padding: 2,
-      "&:focus-within, $:hover": {
+      "&:focus-within, &:hover": {
         backgroundColor: "gray.0"
       }
     }
